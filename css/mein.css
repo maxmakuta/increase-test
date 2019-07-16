@@ -1,0 +1,78 @@
+body {
+  font-size: 14px;
+  font-family: Arial, sans-serif;
+  line-height: 22px;
+}
+.rgbw {
+  color: white;
+}
+
+.p0 {
+  padding: 0;
+}
+.pr0 {
+  padding-right: 0;
+}
+.p10 {
+  padding: 10px;
+}
+
+.p2 {
+  padding: 2px;
+}
+
+.mr0 {
+  margin-right: 0;
+}
+.ml0 {
+  margin-left: 0;
+}
+.mb0 {
+  margin-bottom: 0;
+}
+
+.mt0 {
+  margin-top: 0;
+}
+
+.ml0 {
+  margin-left: 0;
+}
+
+
+.ml19 {
+  margin-left: 19px;
+}
+
+.mr19 {
+  margin-right: 19px;
+}
+
+.mb19 {
+margin-bottom: 19px;
+}
+
+.mt19 {
+  margin-top: 19px;
+}
+
+.ml28 {
+  margin-left: 28px;
+}
+
+.mb28 {
+  margin-bottom: 28px;
+}
+
+.m40 {
+  margin: 40px;
+}
+
+.rgb {
+  background-color: lightgrey;
+}
+
+.row {
+  margin-right: 0;
+  margin-left: 0;
+}
